@@ -1,0 +1,2 @@
+angular
+  .module('assessment', ['ngResource']);
